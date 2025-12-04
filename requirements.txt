@@ -1,3 +1,7 @@
-datasets
+xgboost
 catboost
+scikit-learn
+pandas
+numpy
 joblib
+datasets
